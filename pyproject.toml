@@ -1,0 +1,14 @@
+[project]
+name = "nn-tensorflow-keras"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel",
+    "tensorflow-macos",
+    "tensorflow-metal",
+    "pandas",
+    "matplotlib",
+    "matplotlib-inline",
+    "scikit-learn",
+    "wget"
+]
