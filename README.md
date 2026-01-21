@@ -39,7 +39,7 @@ uv run jupyter notebook
 
 ## Results
 
-- **Custom CNN**: Accuracy on 100 random test samples: 51.00%
+- **Custom CNN**: Accuracy on 100 random test samples: 60.00%
 - **MobileNetV2 Transfer Learning**: Accuracy on 100 random test samples: 96.00%
 
 ## Project Structure
